@@ -4,8 +4,8 @@ This repository contains the report and certificate from my internship at U R Ra
 
 ## Contents
 
-- **Internship Report**: [URSC_Internship_Report.pdf](./URSC_Internship_Report.pdf)
-- **Internship Certificate**: [URSC_Internship_Certificate.pdf](./URSC_Internship_Certificate.pdf)
+- **Internship Report**: Modeling and Analysis of Sandwich deck and Hexagon innterstage.pdf
+- **Internship Certificate**: ISRO Internship Certificate.pdf
 
 ## Internship Overview
 
