@@ -1,29 +1,30 @@
-# V-Bending Simulation and Analysis
+# Hangover Event - Conscientia 2023
 
-This repository contains the report and simulation files for the **V-Bending Simulation and Analysis** project, where I modeled and analyzed the V-bending process using finite element analysis (FEA) with ABAQUS to study the effects of various parameters on stress distribution.
+This repository contains the details of the **Hangover Event**, an exciting bridge-building competition held during the annual technical festival **Conscientia 2023** at the Indian Institute of Space Science and Technology (IIST). Teams were tasked with building a bridge using ice cream sticks that could withstand significant weight while adhering to strict design constraints.
 
 ## Contents
 
-- **Project Report**: V Bending.pdf
-- **Prestation Video**: Abaqus_CAE Learning....
+- **Event Details & Rules**: Hangover_Canva.pdf
+- **Certificate**: Hangover_Certificate.pdf
 
-## Project Overview
+## Event Overview
 
-- **Project Title**: V-Bending Simulation and Analysis
-- **Tools Used**: ABAQUS/Standard, SolidWorks
-- **Focus**: Finite element analysis (FEA) of V-bending, focusing on the impact of punch radius, sheet thickness, and friction coefficient on stress distribution.
+- **Event Title**: Hangover - Build to Soar, Test to Endure
+- **Organized by**: Conscientia 2023, IIST
+- **Date**: 22-25 September 2023
+- **Team Size**: 3 members per team
 
 ## Key Contributions
 
-- **Finite Element Modeling**: Developed 3D finite element models using ABAQUS to simulate the V-bending process, focusing on copper, aluminum (AA6061 T6), and steel alloys.
-- **Stress Distribution Analysis**: Studied the effects of punch radius, sheet thickness, and friction coefficient on tension and compression stresses, finding that sheet thickness significantly influences stress patterns.
-- **Result Validation**: Successfully validated the simulation results against theoretical predictions, optimizing parameters for efficient V-bending in manufacturing processes.
+- **Event Planning & Execution**: Organized the event, including designing the competition structure, defining the rules, and ensuring fair judging criteria based on creativity, aesthetics, and load-bearing capacity.
+- **Team Coordination**: Managed 20 teams (3 members each), guiding them through both the theoretical and practical phases of the event.
+- **Judging & Results**: Supervised the final testing phase, where bridges were evaluated for their structural integrity by gradually increasing the load until failure, ensuring an engaging and competitive experience.
 
 ## Contact
 
-For further information or collaboration, feel free to reach out:
+For any inquiries or further details about the event, feel free to reach out:
 
 - **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
 
-Thank you for visiting my project repository!
+Thank you for visiting the Hangover Event repository!
