@@ -1,31 +1,29 @@
-# Academic Results Repository
+# Internship at STAR, Surat
 
-This repository contains my academic results for 10th, 12th, and JEE exams. The documents are organized for easy access and reference.
+This repository contains the report and certificate from my internship at STAR (Space Technology and Aeronautical Rocketry), Surat. During this internship, I worked on the design and analysis of a Rocket Motor Static Test Pad, focusing on creating a portable and cost-effective solution.
 
 ## Contents
 
-- **10th Grade Results**: 10th_Result.pdf
-- **12th Grade Results**: 12th_Result.pdf
-- **JEE Exam Results**: jee main final ressult_Result.pdf
+- **Internship Report**: [STAR_Internship_Report.pdf](./STAR_Internship_Report.pdf)
+- **Internship Certificate**: [STAR_Internship_Certificate.pdf](./STAR_Internship_Certificate.pdf)
 
-## Viewing Instructions
+## Internship Overview
 
-1. Click on the respective result link to view the PDF.
-2. Each file contains the official results for the corresponding examination.
+- **Organization**: Space Technology and Aeronautical Rocketry (STAR), Surat
+- **Duration**: June 2023 - July 2023
+- **Focus**: Design and analysis of a cost-effective, portable Rocket Motor Static Test Pad using SolidWorks and Fusion 360.
 
-## About Me
+## Key Contributions
 
-- **10th Grade**: Gujarat Board - 87.33%
-- **12th Grade**: Gujarat Board - 90.15%
-- **JEE Rank**: All India Rank - 17157
-
-These results reflect my academic performance, which has been a key foundation in pursuing my current studies in Aerospace Engineering.
+- **Design & Modeling**: Led the design of a Rocket Motor Static Test Pad, utilizing SolidWorks for 2D and 3D modeling while considering cost-efficiency, portability, and structural integrity.
+- **Material Selection & Manufacturing**: Researched and selected lightweight materials, such as Aluminum T-slot extrusions, and developed a detailed assembly procedure to ensure ease of construction and durability.
+- **Simulation & Analysis**: Conducted stress and load simulations to validate the design, ensuring that the test pad could withstand the thrust generated during rocket motor testing.
 
 ## Contact
 
-For any questions or further information, feel free to reach out:
+For any inquiries or collaboration, feel free to contact me:
 
 - **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
 
-Thank you for visiting!
+Thank you for visiting my internship repository!
