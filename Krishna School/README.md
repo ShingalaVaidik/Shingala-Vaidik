@@ -1,22 +1,31 @@
-# Vaidik Shingala - Portfolio
+# Academic Results Repository
 
-Welcome to my GitHub portfolio! I'm Vaidik Shingala, a passionate Aerospace Engineering student with a strong foundation in structural analysis, finite element modeling, and programming. This repository showcases the projects I've worked on throughout my academic journey and internships, including simulations, analysis, and design challenges in aerospace and mechanical engineering.
+This repository contains my academic results for 10th, 12th, and JEE exams. The documents are organized for easy access and reference.
+
+## Contents
+
+- **10th Grade Results**: 10th_Result.pdf
+- **12th Grade Results**: 12th_Result.pdf
+- **JEE Exam Results**: jee main final ressult_Result.pdf
+
+## Viewing Instructions
+
+1. Click on the respective result link to view the PDF.
+2. Each file contains the official results for the corresponding examination.
 
 ## About Me
 
-- **Aerospace Engineering Student** at the Indian Institute of Space Science and Technology (IIST), Trivandrum
-- Proficient in CAD software (SolidWorks, CATIA V5), FEA tools (MSC Patran/Nastran, ANSYS), and programming languages like MATLAB and FreeFEM++
-- Experienced in structural analysis, composite material modeling, and trajectory simulation
+- **10th Grade**: Gujarat Board - 87.33%
+- **12th Grade**: Gujarat Board - 90.15%
+- **JEE Rank**: All India Rank - 17157
 
-## Skills & Expertise
-- **Finite Element Analysis (FEA)**: Patran/Nastran, ANSYS
-- **CAD Modeling**: SolidWorks, CATIA V5, Fusion 360
-- **Programming**: MATLAB, FreeFEM++
-- **Aerospace Engineering**: Structural analysis, trajectory simulation, material optimization
+These results reflect my academic performance, which has been a key foundation in pursuing my current studies in Aerospace Engineering.
 
 ## Contact
 
-Feel free to explore my projects and reach out for collaboration or queries:
+For any questions or further information, feel free to reach out:
 
 - **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
 - **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
+
+Thank you for visiting!
