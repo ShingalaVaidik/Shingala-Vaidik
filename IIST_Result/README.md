@@ -24,6 +24,7 @@ This repository contains my semester-wise academic results from the Indian Insti
 - **Semester 4 GPA**: 8.50
 - **Semester 5 GPA**: 8.50
 - **Semester 6 GPA**: 8.70
+- **CGPA**: 8.15
 
 The results represent my academic growth and progress over six semesters in the Aerospace Engineering program.
 
