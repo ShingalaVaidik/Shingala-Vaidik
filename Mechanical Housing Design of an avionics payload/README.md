@@ -1,29 +1,29 @@
-# V-Bending Simulation and Analysis
+# Mechanical Housing Design of an Avionics Payload
 
-This repository contains the report and simulation files for the **V-Bending Simulation and Analysis** project, where I modeled and analyzed the V-bending process using finite element analysis (FEA) with ABAQUS to study the effects of various parameters on stress distribution.
+This repository contains the report and design files for the Mechanical Housing Design of an Avionics Payload project, where I designed and manufactured a modular housing for sensor assemblies and an electronic board, optimizing for lightweight, strength, and cost-efficiency.
 
 ## Contents
 
-- **Project Report**: V-Bending_Simulation_Report.pdf
-- **Simulation Files**: [V-Bending_Simulation_Files.abaqus](./V-Bending_Simulation_Files.abaqus)
+- Project Report [Mechanical_Housing_Design_Report.pdf](.Mechanical_Housing_Design_Report.pdf)
+- CAD Models [Mechanical_Housing_Models.zip](.Mechanical_Housing_Models.zip)
 
 ## Project Overview
 
-- **Project Title**: V-Bending Simulation and Analysis
-- **Tools Used**: ABAQUS/Standard, SolidWorks
-- **Focus**: Finite element analysis (FEA) of V-bending, focusing on the impact of punch radius, sheet thickness, and friction coefficient on stress distribution.
+- Project Title Mechanical Housing Design of an Avionics Payload
+- Tools Used SolidWorks, CATIA V5, GD&T
+- Focus Design and manufacturing of a lightweight and strong housing for sensor assemblies and an electronic board, ensuring modularity and ease of assembly.
 
 ## Key Contributions
 
-- **Finite Element Modeling**: Developed 3D finite element models using ABAQUS to simulate the V-bending process, focusing on copper, aluminum (AA6061 T6), and steel alloys.
-- **Stress Distribution Analysis**: Studied the effects of punch radius, sheet thickness, and friction coefficient on tension and compression stresses, finding that sheet thickness significantly influences stress patterns.
-- **Result Validation**: Successfully validated the simulation results against theoretical predictions, optimizing parameters for efficient V-bending in manufacturing processes.
+- Design & CAD Modeling Developed detailed 2D and 3D models of the housing using SolidWorks and CATIA V5, focusing on modularity and structural integrity.
+- Material Selection & Weight Optimization Chose appropriate materials, optimizing for strength-to-weight ratio while keeping the design cost-effective.
+- Assembly Procedure & GD&T Created a detailed assembly procedure, ensuring the housing design could be easily manufactured, with proper dimensional and geometric tolerances (GD&T) applied.
 
 ## Contact
 
-For further information or collaboration, feel free to reach out:
+For any questions or collaboration inquiries, feel free to reach out
 
-- **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
-- **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
+- Email [vaidik.shingala13@gmail.com](mailtovaidik.shingala13@gmail.com)
+- LinkedIn [linkedin.cominvaidikshingala1307](httpslinkedin.cominvaidikshingala1307)
 
 Thank you for visiting my project repository!
