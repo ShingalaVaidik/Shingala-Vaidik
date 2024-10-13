@@ -1,31 +1,28 @@
-# Mechanical Housing Design of an Avionics Payload
+# Performance Analysis of Aircraft
 
-This repository contains the report and design files for the Mechanical Housing Design of an Avionics Payload project, where I designed and manufactured a modular housing for sensor assemblies and an electronic board, optimizing for lightweight, strength, and cost-efficiency.
+This repository contains the report and simulation files for the **Performance Analysis of Aircraft** project, where I conducted detailed performance analysis, including V-n diagrams, gust analysis, and VTAS-n diagrams for jet and propeller-driven aircraft, using MATLAB for data visualization and optimization.
 
 ## Contents
 
-- **Project ppt**: ppt.pdf
-- **CAD Models 3D pdf**: Assem1.pdf
-- **CAD Models Video**: Media Player..
-- **Problem Statement**: Problem Statement.pdf ( Password=AE224-task )
+- **Project Report**: AFM_A01.pdf and AFM_A02.pdf
 
 ## Project Overview
 
-- Project Title Mechanical Housing Design of an Avionics Payload
-- Tools Used SolidWorks, CATIA V5, GD&T
-- Focus Design and manufacturing of a lightweight and strong housing for sensor assemblies and an electronic board, ensuring modularity and ease of assembly.
+- **Project Title**: Performance Analysis of Aircraft
+- **Tools Used**: MATLAB, Aircraft Performance Theory
+- **Focus**: Analyzing and simulating the performance characteristics of aircraft, including stability, maneuverability, and flight envelopes at different altitudes.
 
 ## Key Contributions
 
-- Design & CAD Modeling Developed detailed 2D and 3D models of the housing using SolidWorks and CATIA V5, focusing on modularity and structural integrity.
-- Material Selection & Weight Optimization Chose appropriate materials, optimizing for strength-to-weight ratio while keeping the design cost-effective.
-- Assembly Procedure & GD&T Created a detailed assembly procedure, ensuring the housing design could be easily manufactured, with proper dimensional and geometric tolerances (GD&T) applied.
+- **V-n and VTAS-n Diagrams**: Generated V-n diagrams and VTAS-n diagrams for various flight conditions, demonstrating proficiency in aircraft performance analysis and stability calculations.
+- **Gust Analysis**: Performed gust analysis to evaluate aircraft response under turbulent conditions, optimizing flight parameters for safety and performance.
+- **Simulation & Data Visualization**: Developed MATLAB code to visualize and analyze aircraft performance data, ensuring clear insights into the aircraft's operational envelope.
 
 ## Contact
 
-For any questions or collaboration inquiries, feel free to reach out
+For any questions or collaboration inquiries, feel free to reach out:
 
-- Email [vaidik.shingala13@gmail.com](mailtovaidik.shingala13@gmail.com)
-- LinkedIn [linkedin.cominvaidikshingala1307](httpslinkedin.cominvaidikshingala1307)
+- **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
 
 Thank you for visiting my project repository!
