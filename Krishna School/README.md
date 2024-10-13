@@ -25,7 +25,7 @@ These results reflect my academic performance, which has been a key foundation i
 
 For any questions or further information, feel free to reach out:
 
-- **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
 
 Thank you for visiting!
