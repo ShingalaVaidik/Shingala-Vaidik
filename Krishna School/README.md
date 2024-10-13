@@ -4,9 +4,9 @@ This repository contains my academic results for 10th, 12th, and JEE exams. The 
 
 ## Contents
 
-- **10th Grade Results**: [10th_Result.pdf]
-- **12th Grade Results**: [12th_Result.pdf]
-- **JEE Exam Results**: [jee main final ressult_Result.pdf]
+- **10th Grade Results**: 10th_Result.pdf
+- **12th Grade Results**: 12th_Result.pdf
+- **JEE Exam Results**: jee main final ressult_Result.pdf
 
 ## Viewing Instructions
 
