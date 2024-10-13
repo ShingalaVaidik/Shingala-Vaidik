@@ -4,8 +4,8 @@ This repository contains the report and certificate from my internship at STAR (
 
 ## Contents
 
-- **Internship Report**: [STAR_Internship_Report.pdf](./STAR_Internship_Report.pdf)
-- **Internship Certificate**: [STAR_Internship_Certificate.pdf](./STAR_Internship_Certificate.pdf)
+- **Internship Report**: Final report STAR Shingala Vaidik.pdf
+- **Internship Certificate**: Internship Completion Certificate.pdf
 
 ## Internship Overview
 
