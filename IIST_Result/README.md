@@ -1,8 +1,37 @@
-# Semester Results Repository
+# IIST Semester Results Repository
 
-Welcome to my repository where I have uploaded the academic results for each semester during my coursework. This repository provides a clear and organized overview of my academic progress.
+This repository contains my semester-wise academic results from the Indian Institute of Space Science and Technology (IIST). Each result reflects my academic performance throughout the course of my Aerospace Engineering degree.
 
-## Structure
+## Contents
 
-Each folder in the repository corresponds to a specific semester and contains the respective results in PDF format. The structure is as follows:
+- **Semester 1**: [Vaidik_Sem1_Marksheet.pdf](./Vaidik_1_Marksheet.pdf) - GPA: 7.57
+- **Semester 2**: [Vaidik_Sem2_Marksheet.pdf](./Vaidik_2_Marksheet.pdf) - GPA: 7.62
+- **Semester 3**: [Vaidik_Sem3_Marksheet.pdf](./Vaidik_3_Marksheet.pdf) - GPA: 8.00
+- **Semester 4**: [Vaidik_Sem4_Marksheet.pdf](./Vaidik_4_Marksheet.pdf) - GPA: 8.50
+- **Semester 5**: [Vaidik_Sem5_Marksheet.pdf](./Vaidik_5_Marksheet.pdf) - GPA: 8.50
+- **Semester 6**: [Vaidik_Sem6_Marksheet.pdf](./Vaidik_6_Marksheet.pdf) - GPA: 8.70
 
+## Viewing Instructions
+
+1. Click on the respective semester link to view the PDF of that semester’s result.
+2. Each file contains the official marksheet for the corresponding semester.
+
+## Academic Summary
+
+- **Semester 1 GPA**: 7.57
+- **Semester 2 GPA**: 7.62
+- **Semester 3 GPA**: 8.00
+- **Semester 4 GPA**: 8.50
+- **Semester 5 GPA**: 8.50
+- **Semester 6 GPA**: 8.70
+
+The results represent my academic growth and progress over six semesters in the Aerospace Engineering program.
+
+## Contact
+
+For any inquiries or further information, feel free to contact me:
+
+- **Email**: [vaidik.shingala13@gmail.com](mailto:vaidik.shingala13@gmail.com)
+- **LinkedIn**: [linkedin.com/in/vaidikshingala1307](https://linkedin.com/in/vaidikshingala1307)
+
+Thank you for visiting my repository!
