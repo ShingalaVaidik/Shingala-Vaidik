@@ -4,12 +4,12 @@ This repository contains my semester-wise academic results from the Indian Insti
 
 ## Contents
 
-- **Semester 1**: [Vaidik_1_sem_Marksheet(1).pdf](./Vaidik_1_sem_Marksheet(1).pdf) - GPA: 7.57
-- **Semester 2**: [Vaidik_2_sem_Marksheet(1).pdf](./Vaidik_2_Marksheet.pdf) - GPA: 7.62
-- **Semester 3**: [Vaidik_3_sem_Marksheet(1).pdf](./Vaidik_3_Marksheet.pdf) - GPA: 8.00
-- **Semester 4**: [Vaidik_4th_sem_Marksheet.pdf](./Vaidik_4_Marksheet.pdf) - GPA: 8.50
-- **Semester 5**: [Vaidik_5th__sem_Marksheet.pdf](./Vaidik_5_Marksheet.pdf) - GPA: 8.50
-- **Semester 6**: [Vaidik_6th_sem.pdf](./Vaidik_6_Marksheet.pdf) - GPA: 8.70
+- **Semester 1**: Vaidik_1_sem_Marksheet(1).pdf - GPA: 7.57
+- **Semester 2**: Vaidik_2_sem_Marksheet(1).pdf - GPA: 7.62
+- **Semester 3**: Vaidik_3_sem_Marksheet(1).pdf - GPA: 8.00
+- **Semester 4**: Vaidik_4th_sem_Marksheet.pdf - GPA: 8.50
+- **Semester 5**: Vaidik_5th__sem_Marksheet.pdf - GPA: 8.50
+- **Semester 6**: Vaidik_6th_sem.pdf - GPA: 8.70
 
 ## Viewing Instructions
 
