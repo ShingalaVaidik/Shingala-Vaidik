@@ -4,8 +4,10 @@ This repository contains the report and design files for the Mechanical Housing 
 
 ## Contents
 
-- Project Report [Mechanical_Housing_Design_Report.pdf](.Mechanical_Housing_Design_Report.pdf)
-- CAD Models [Mechanical_Housing_Models.zip](.Mechanical_Housing_Models.zip)
+- **Project ppt**: ppt.pdf
+- **CAD Models 3D pdf**: Assem1.pdf
+- **CAD Models Video**: Media Player..
+- **Problem Statement**: Problem Statement.pdf ( Password=AE224-task )
 
 ## Project Overview
 
